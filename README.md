@@ -7,7 +7,8 @@ PROJECT NAME:
 Rectangles wrapping algorithm - unused space in wrapped area
 
 PROGRAM ACTIVATION OPTIONS:
---help		show proper usage of program, possible options of activation, 
+--help		
+show proper usage of program, possible options of activation, 
 		and output for those options.
 -g [NUMBER]	runs program with generator, which generates convex hull 
 		and rectangles in it. That data will be input for algorithm.
